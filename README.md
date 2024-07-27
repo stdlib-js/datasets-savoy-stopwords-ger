@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import stopwords from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-savoy-stopwords-ger@esm/index.mjs';
+import stopwords from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-savoy-stopwords-ger@v0.2.2-esm/index.mjs';
 ```
 
 #### stopwords()
@@ -89,7 +89,7 @@ var list = stopwords();
 
 import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@esm/index.mjs';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import stopwords from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-savoy-stopwords-ger@esm/index.mjs';
+import stopwords from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-savoy-stopwords-ger@v0.2.2-esm/index.mjs';
 
 var list = stopwords();
 var len = list.length;
